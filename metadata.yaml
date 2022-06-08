@@ -1,0 +1,40 @@
+_repo: Aarne-herran-rahat-Kertomus_68191
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jäntti, Jalmari
+    alias: Jantti, Jalmari
+    gutenberg_agent_id: '42204'
+    url: http://www.gutenberg.org/2009/agents/42204
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+description: ''
+gutenberg_issued: '2022-05-28'
+identifiers:
+  gutenberg: '68191'
+language: fi
+pgterms:marc905: 20180302030214lagerlf
+pgterms:marc906: '1903'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Werner Söderström,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aarne herran rahat: Kertomus'
+url: http://www.gutenberg.org/ebooks/68191
