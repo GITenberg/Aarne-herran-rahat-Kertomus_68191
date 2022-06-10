@@ -6,6 +6,9 @@ contributor:
     alias: Jantti, Jalmari
     gutenberg_agent_id: '42204'
     url: http://www.gutenberg.org/2009/agents/42204
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -22,6 +25,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
     - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68191#Aarne-herran-rahat-Kertomus
 gutenberg_issued: '2022-05-28'
 identifiers:
   gutenberg: '68191'
